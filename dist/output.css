@@ -1251,6 +1251,11 @@ body {
   color: rgb(24 24 27 / var(--tw-text-opacity));
 }
 
+.dark .dark\:text-zinc-600 {
+  --tw-text-opacity: 1;
+  color: rgb(82 82 91 / var(--tw-text-opacity));
+}
+
 .dark .dark\:shadow-zinc-500 {
   --tw-shadow-color: #71717a;
   --tw-shadow: var(--tw-shadow-colored);
